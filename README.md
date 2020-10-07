@@ -7,5 +7,5 @@ Hey, Hi there! My name is Alvin Jacob. I'm a 19 year old Software Engineering De
 - 💬 Ask me about ... anything :) If I know the answer, I'll be sure to tell you :D
 - 📫 How to reach me: ... https://www.linkedin.com/in/alvin-jacob-bb5322194/
 - 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... I am from South India 🇮🇳
+- ⚡ Fun fact: ... I am from South India!
 -->
